@@ -94,6 +94,15 @@ Smooth entry animations and a fully functional contact form integrated with Emai
     npm run dev
     ```
 
+### Available Scripts
+
+| Command | Description |
+| :--- | :--- |
+| `npm run dev` | Starts the development server. |
+| `npm run build` | Builds the app for production. |
+| `npm run lint` | Runs ESLint to check for code quality issues. |
+| `npm run preview` | Previews the production build locally. |
+
 ---
 
 ## 📦 Deployment
