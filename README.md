@@ -65,6 +65,10 @@ Smooth entry animations and a fully functional contact form integrated with Emai
 - Node.js (v18+)
 - npm or yarn
 
+### Development Tools
+- **VS Code**: Recommended extensions are included in `.vscode/extensions.json`.
+- **Firebase Config**: Copy `firebase.json.example` to `firebase.json` if deploying.
+
 ### Installation
 1.  **Clone the repository**
     ```bash
